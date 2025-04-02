@@ -1,0 +1,43 @@
+{
+  "images": [
+    {
+      "src": "/images/A/01.jpg",
+      "alt": "1번 이미지"
+    },
+    {
+      "src": "/images/A/02.jpg",
+      "alt": "2번 이미지"
+    },
+    {
+      "src": "/images/A/03.jpg",
+      "alt": "3번 이미지"
+    },
+    {
+      "src": "/images/A/04.jpg",
+      "alt": "4번 이미지"
+    },
+    {
+      "src": "/images/A/05.jpg",
+      "alt": "5번 이미지"
+    },{
+      "src": "/images/A/06.jpg",
+      "alt": "6번 이미지"
+    },
+    {
+      "src": "/images/A/07.jpg",
+      "alt": "7번 이미지"
+    },
+    {
+      "src": "/images/A/08.jpg",
+      "alt": "8번 이미지"
+    },
+    {
+      "src": "/images/A/09.jpg",
+      "alt": "9번 이미지"
+    },
+    {
+      "src": "/images/A/10.jpg",
+      "alt": "10번 이미지"
+    }
+  ]
+}

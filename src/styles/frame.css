@@ -1,0 +1,7 @@
+._frame {
+    @apply relative block;
+
+    img {
+        @apply object-contain;
+    }
+}

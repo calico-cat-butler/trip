@@ -1,0 +1,13 @@
+._responsive-grid-system {
+    @apply flex flex-1 flex-wrap w-full h-full;
+
+    &.without-padding {
+        & > div {
+              @apply px-0;
+        }
+    }
+
+    & > div {
+        @apply px-4 transition-all;
+    }
+}
